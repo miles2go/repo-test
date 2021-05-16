@@ -4,4 +4,4 @@ idna==2.10
 PyYAML==5.4.1
 requests==2.25.1
 urllib3==1.26.4
-behave==1.2.6
+pytest-bdd==4.0.2
